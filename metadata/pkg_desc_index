@@ -1,0 +1,7 @@
+app-shells/xonsh 0.1.6 9999: pythonic shell
+app-text/cppman 0.4.5: man pages for the c++ standard library
+games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
+games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
+games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age of empires II TC
+media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
+virtual/linux-sources 99: Virtual for Linux kernel sources
