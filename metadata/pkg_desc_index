@@ -1,12 +1,12 @@
-app-shells/xonsh 0.1.6 9999: pythonic shell
 app-text/cppman 0.4.5: man pages for the c++ standard library
 dev-libs/libdwarf 20150915: Library to deal with DWARF Debugging Information Format
+dev-python/xonsh 0.2.3 9999: pythonic shell
 games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age of empires II TC
 media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
 net-analyzer/htp 0.5.18: security-aware parser for the HTTP protocol and the related bits and pieces.
-net-analyzer/suricata 2.0.9: next generation intrusion detection and prevention engine
+net-analyzer/suricata 2.0.10: High performance Network IDS, IPS and Network Security Monitoring engine
 net-im/telegram-purple 1.2.1_beta3: Libpurple (Pidgin) plugin for using a Telegram account
 sys-libs/libvmi 9999: virtual machine introspection toolkit
 virtual/linux-sources 99: Virtual for Linux kernel sources

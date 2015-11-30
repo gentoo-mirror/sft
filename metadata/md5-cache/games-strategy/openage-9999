@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install postinst preinst prepare setup test unpack
-DEPEND=dev-python/pillow dev-python/numpy virtual/opengl media-libs/libepoxy:= media-libs/ftgl:= media-fonts/dejavu media-libs/freetype:2=[X] media-libs/fontconfig:= media-libs/libsdl2:=[X,opengl,video] media-libs/sdl2-image:=[png] media-libs/opusfile:= media-sound/opus-tools dev-python/cython dev-python/pygments || ( >=sys-devel/clang-3.4 >=sys-devel/gcc-4.9 ) sys-devel/make >=dev-util/cmake-3.0.0 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
+DEPEND=dev-python/pillow dev-python/numpy virtual/opengl media-libs/libepoxy:= media-libs/harfbuzz:= media-fonts/dejavu media-libs/freetype:2=[X] media-libs/fontconfig:= media-libs/libsdl2:=[X,opengl,video] media-libs/sdl2-image:=[png] media-libs/opusfile:= media-sound/opus-tools dev-python/cython dev-python/pygments || ( >=sys-devel/clang-3.4 >=sys-devel/gcc-4.9 ) sys-devel/make >=dev-util/cmake-3.0.0 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=free as in freedom RTS engine for age of empires II TC
 EAPI=5
 HOMEPAGE=http://openage.sft.mx https://github.com/SFTtech/openage
 IUSE=debug
 LICENSE=GPL-3
-RDEPEND=dev-python/pillow dev-python/numpy virtual/opengl media-libs/libepoxy:= media-libs/ftgl:= media-fonts/dejavu media-libs/freetype:2=[X] media-libs/fontconfig:= media-libs/libsdl2:=[X,opengl,video] media-libs/sdl2-image:=[png] media-libs/opusfile:= media-sound/opus-tools games-misc/games-envd
+RDEPEND=dev-python/pillow dev-python/numpy virtual/opengl media-libs/libepoxy:= media-libs/harfbuzz:= media-fonts/dejavu media-libs/freetype:2=[X] media-libs/fontconfig:= media-libs/libsdl2:=[X,opengl,video] media-libs/sdl2-image:=[png] media-libs/opusfile:= media-sound/opus-tools games-misc/games-envd
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:games pkg_postinst:- pkg_setup:- src_unpack:git-r3 src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
 _eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	games	4dae170e58f773c484e07d18ef441804	git-r3	e6443022d06c4de81a14e017bdfcc306	multilib	3972ca401cf7dbb430df9995f5d8d580	python-any-r1	63d890c175bcc4604e8327cef1dec948	python-utils-r1	435d2b9a60ae5a1c3b65737c621716e2	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	user	906f3c8eb3a2350a4f1191a89baa3e46	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=2b65a85ed7cbc11f96c5bb394469c074
+_md5_=16dfafc27617c953e545edc47322b0b6
