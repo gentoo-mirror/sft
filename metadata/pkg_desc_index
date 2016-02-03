@@ -1,6 +1,7 @@
 app-text/cppman 0.4.5: man pages for the c++ standard library
 dev-libs/libdwarf 20150915: Library to deal with DWARF Debugging Information Format
 dev-python/xonsh 0.2.3 9999: pythonic shell
+dev-util/qcachegrind 0.7.4: call graph viewer for callgrind
 games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age of empires II TC
