@@ -6,6 +6,7 @@ games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age of empires II TC
 media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
+media-video/videoscreen 1.1: play links submitted via netcat with mpv
 net-analyzer/htp 0.5.18: security-aware parser for the HTTP protocol and the related bits and pieces.
 net-analyzer/suricata 2.0.11: High performance Network IDS, IPS and Network Security Monitoring engine
 net-im/telegram-purple 1.2.2_beta: Libpurple (Pidgin) plugin for using a Telegram account
