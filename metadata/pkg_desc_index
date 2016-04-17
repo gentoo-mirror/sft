@@ -1,4 +1,3 @@
-app-text/cppman 0.4.6: man pages for the c++ standard library
 dev-libs/libdwarf 20150915: Library to deal with DWARF Debugging Information Format
 dev-python/xonsh 0.2.3 9999: pythonic shell
 dev-util/kevin 0.2 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
