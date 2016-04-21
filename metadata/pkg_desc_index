@@ -9,6 +9,6 @@ media-libs/daala 9999: Open versatile video codec designed for ultra-high perfor
 media-video/videoscreen 1.1: play links submitted via netcat with mpv
 net-analyzer/htp 0.5.18: security-aware parser for the HTTP protocol and the related bits and pieces.
 net-analyzer/suricata 2.0.11: High performance Network IDS, IPS and Network Security Monitoring engine
-net-im/telegram-purple 1.2.2_beta: Libpurple (Pidgin) plugin for using a Telegram account
+net-im/telegram-purple 9999: Libpurple (Pidgin) plugin for using a Telegram account
 sys-libs/libvmi 9999: virtual machine introspection toolkit
 virtual/linux-sources 99: Virtual for Linux kernel sources
