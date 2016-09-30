@@ -2,10 +2,10 @@ DEFINED_PHASES=install unpack
 DEPEND=dev-python/axolotl >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Gajim plugin for XEP proposal: OMEMO Encryption
 EAPI=5
-HOMEPAGE=https://github.com/siacs/HttpUploadComponent
+HOMEPAGE=https://github.com/omemo/gajim-omemo
 LICENSE=GPL-3
 RDEPEND=dev-python/axolotl
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=cea77df1157dc2c538a6b2ab3a793fd7
+_md5_=2bd8af99dbeb51c3e0265e6964cbf7e1
