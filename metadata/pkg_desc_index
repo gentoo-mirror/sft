@@ -4,6 +4,8 @@ dev-python/axolotl 0.1.35 9999: Python port of libaxolotl
 dev-python/axolotl-curve25519 9999: Python wrapper for the curve25519 library
 dev-python/dnspython 1.14.0: DNS toolkit for Python
 dev-python/gajim-omemo 0.9 9999: Gajim plugin for XEP proposal: OMEMO Encryption
+dev-python/isort 4.2.5: A Python utility / library to sort imports
+dev-python/pylint 1.6.4: Python code static checker
 dev-python/xonsh 0.2.7 9999: pythonic shell
 dev-util/kevin 0.2 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
 dev-util/qcachegrind 0.7.4: call graph viewer for callgrind
