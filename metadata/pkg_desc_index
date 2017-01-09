@@ -1,3 +1,4 @@
+app-editors/hyx 0.1.1: a minimalistic console hex editor with vim-like controls
 dev-libs/libdwarf 20150915: Library to deal with DWARF Debugging Information Format
 dev-python/aiopg 0.9.2 9999: postgresql access from asyncio
 dev-python/axolotl 0.1.35 9999: Python port of libaxolotl
