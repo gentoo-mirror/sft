@@ -1,16 +1,20 @@
 app-editors/hyx 0.1.4: a minimalistic console hex editor with vim-like controls
 dev-libs/libdwarf 20170416: Library to deal with DWARF Debugging Information Format
 dev-python/aiopg 0.9.2 9999: postgresql access from asyncio
-dev-python/axolotl 0.1.35 9999: Python port of libaxolotl
-dev-python/axolotl-curve25519 9999: Python wrapper for the curve25519 library
+dev-python/blessed 1.14.2: Simplified curses wrapper
 dev-python/dnspython 1.14.0: DNS toolkit for Python
 dev-python/isort 4.2.5: A Python utility / library to sort imports
+dev-python/pysigset 0.3.2: Boilerplate framework for plugin, config and log management
+dev-python/requests-unixsocket 0.1.5: Use requests to talk HTTP via a UNIX domain socket
+dev-python/scruffington 0.3.7: Boilerplate framework for plugin, config and log management
 dev-util/kevin 0.2 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
 dev-util/qcachegrind 0.7.4: call graph viewer for callgrind
+dev-util/voltron 9999: Debugger frontent for hackers
 games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age of empires II TC
 media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other printers
+media-gfx/slic3r 9999: A mesh slicer to generate G-code for fused-filament-fabrication (3D printers)
 media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
 media-video/videoscreen 1.1: play links submitted via netcat with mpv
 sys-libs/libvmi 9999: virtual machine introspection toolkit
