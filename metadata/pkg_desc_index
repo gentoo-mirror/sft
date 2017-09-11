@@ -18,6 +18,6 @@ media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other p
 media-gfx/slic3r 9999: A mesh slicer to generate G-code for fused-filament-fabrication (3D printers)
 media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
 media-video/videoscreen 1.1: play links submitted via netcat with mpv
-net-im/riot-web 0.12.2: A glossy Matrix collaboration client for the web
+net-im/riot-web 0.12.3: A glossy Matrix collaboration client for the web
 sys-libs/libvmi 9999: virtual machine introspection toolkit
 virtual/linux-sources 99: Virtual for Linux kernel sources
