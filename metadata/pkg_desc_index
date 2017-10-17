@@ -17,6 +17,6 @@ games-strategy/openage 0.2.3 0.3.0 9999: free as in freedom RTS engine for age o
 media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other printers
 media-libs/daala 9999: Open versatile video codec designed for ultra-high performance video compression
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
-net-im/riot-web 0.12.6: A glossy Matrix collaboration client for the web
+net-im/riot-web 0.12.7: A glossy Matrix collaboration client for the web
 sys-libs/libvmi 9999: virtual machine introspection toolkit
 virtual/linux-sources 99: Virtual for Linux kernel sources
