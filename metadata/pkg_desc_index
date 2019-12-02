@@ -14,7 +14,6 @@ dev-python/scruffington 0.3.7: Boilerplate framework for plugin, config and log 
 dev-util/bear 9999: generates a compilation database for clang tooling
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
 dev-util/kevin 0.6 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
-dev-util/qcachegrind 0.7.4: call graph viewer for callgrind
 dev-util/voltron 9999: Debugger frontent for hackers
 games-board/sabaki 0.33.3: An elegant Go board and SGF editor for a more civilized age
 games-misc/ponysay 3.0.2: cowsay reimplemention for ponies
