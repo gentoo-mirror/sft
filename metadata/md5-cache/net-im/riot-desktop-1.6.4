@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst postrm prepare
+DEPEND=x11-libs/cairo x11-libs/pango media-libs/fontconfig =net-im/riot-web-1.6.4 sys-apps/yarn native-extensions? ( dev-db/sqlcipher virtual/rust )
+DESCRIPTION=A glossy Matrix collaboration client for desktop
+EAPI=7
+HOMEPAGE=https://riot.im
+IUSE=+native-extensions
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0 MIT BSD
+RDEPEND=x11-libs/cairo x11-libs/pango media-libs/fontconfig =net-im/riot-web-1.6.4
+SLOT=0
+SRC_URI=https://github.com/vector-im/riot-desktop/archive/v1.6.4.tar.gz -> riot-desktop-1.6.4.tar.gz
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=65bb15826d2c7533acefcac4058a3ee2
