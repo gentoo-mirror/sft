@@ -2,7 +2,6 @@ app-editors/hyx 0.1.5: a minimalistic console hex editor with vim-like controls
 dev-db/pgcli 3.0.0: CLI for Postgres with auto-completion and syntax highlighting
 dev-libs/libdwarf 20170709: Library to deal with DWARF Debugging Information Format
 dev-libs/nyan 9999: nyan - yet another notation: hierarchical inherited key-value store
-dev-python/aiopg 0.14.0 9999: postgresql access from asyncio
 dev-python/asyncpg 0.21.0 9999: fast PostgreSQL Database Client Library for Python/asyncio
 dev-python/blessed 1.15.0: Simplified curses wrapper
 dev-python/isort 4.2.5: A Python utility / library to sort imports
@@ -21,6 +20,6 @@ games-strategy/openage 9999: free as in freedom RTS engine for age of empires II
 media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other printers
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.7.10: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.7.10: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.7.11: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.7.11: A glossy Matrix collaboration client for the web
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
