@@ -20,6 +20,6 @@ games-strategy/openage 9999: free as in freedom RTS engine for age of empires II
 media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other printers
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.7.11: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.7.11: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.7.12: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.7.12: A glossy Matrix collaboration client for the web
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
