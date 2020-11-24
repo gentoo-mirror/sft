@@ -5,5 +5,5 @@ HOMEPAGE=https://yx7.cc/code/
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=MIT
 SLOT=0
-SRC_URI=https://yx7.cc/code/hyx/hyx-0.1.5.tar.xz
+SRC_URI=https://yx7.cc/code/hyx/hyx-2020.06.09.tar.xz
 _md5_=0df3c65cf055d6800ee7cac26f31b232
