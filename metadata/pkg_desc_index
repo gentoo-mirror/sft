@@ -12,12 +12,10 @@ dev-util/bear 9999: generates a compilation database for clang tooling
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
 dev-util/kevin 0.6 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
 dev-util/rtags 9999: C/C++ indexer for Emacs based on clang
-dev-util/voltron 9999: Debugger frontent for hackers
 games-board/sabaki 0.33.3: An elegant Go board and SGF editor for a more civilized age
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 9999: free as in freedom RTS engine for age of empires II TC
 media-gfx/printrun 99999999: GUI interface for 3D printing on RepRap and other printers
-media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.7.16: A glossy Matrix collaboration client for desktop
 net-im/element-web 1.7.16: A glossy Matrix collaboration client for the web
