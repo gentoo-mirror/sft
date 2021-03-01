@@ -10,4 +10,4 @@ RDEPEND=!net-im/element-desktop-bin app-accessibility/at-spi2-atk:2 app-crypt/li
 SLOT=0
 SRC_URI=https://github.com/vector-im/element-desktop/archive/v1.7.21.tar.gz -> element-desktop-1.7.21.tar.gz
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=c90acf7c320e57f9773e19ecbb2fbd11
+_md5_=ec24f0ea87a622cfe95ac99965048213
