@@ -11,7 +11,6 @@ dev-util/renderdoc 1.12: A tool for tracing, analyzing, and debugging graphics A
 dev-util/rtags 9999: C/C++ indexer for Emacs based on clang
 dev-util/voltron 9999: Debugger frontent for hackers
 games-board/sabaki 0.33.3: An elegant Go board and SGF editor for a more civilized age
-games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 9999: free as in freedom RTS engine for age of empires II TC
 games-util/arma3-unix-launcher 277: Launcher for ARMA3 with mod support
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
