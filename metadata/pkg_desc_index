@@ -1,4 +1,4 @@
-app-arch/msitools 0.100: Set of programs to inspect and build Windows Installer (.MSI) files
+app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer (.MSI) files
 app-editors/hyx 2020.06.09: a minimalistic console hex editor with vim-like controls
 dev-libs/libdwarf 20170709: Library to deal with DWARF Debugging Information Format
 dev-libs/nyan 9999: nyan - yet another notation: hierarchical inherited key-value store
