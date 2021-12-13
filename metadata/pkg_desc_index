@@ -21,6 +21,6 @@ media-libs/libmysofa 1.2: Reader for AES SOFA files to get better HRTFs
 media-libs/librtprocess 0.11.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.9.6: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.9.6: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.9.7: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.9.7: A glossy Matrix collaboration client for the web
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
