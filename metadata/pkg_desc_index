@@ -19,6 +19,7 @@ games-util/arma3-unix-launcher 288: Launcher for ARMA3 with mod support
 media-gfx/siril 0.99.10.1: a free astronomical image processing software
 media-libs/libmysofa 1.2: Reader for AES SOFA files to get better HRTFs
 media-libs/librtprocess 0.11.0: Algorithms for RAW processing from RawTherapee
+media-sound/mumble 1.4.230: Mumble is an open source, low-latency, high quality voice chat software
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.9.9: A glossy Matrix collaboration client for desktop
