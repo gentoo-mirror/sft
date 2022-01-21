@@ -6,3 +6,5 @@ media-sound/mumble:g15 - Enable support for the Logitech G15 LCD (and compatible
 media-sound/mumble:pipewire - Enable pipewire support for audio output.
 media-sound/mumble:rnnoise - Enable alternative noise suppression option based on RNNoise.
 media-sound/mumble:speech - Enable text-to-speech support in Mumble.
+x11-base/xwayland:unwind - Enable libunwind usage for backtraces
+x11-base/xwayland:xcsecurity - Build Security extension
