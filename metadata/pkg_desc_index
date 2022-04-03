@@ -23,7 +23,7 @@ net-dialup/opencu 1: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.10.1: A glossy Matrix collaboration client for desktop
 net-im/element-web 1.10.1: A glossy Matrix collaboration client for the web
-net-vpn/wirespider 0.3.1: Wirespider allows distributing wireguard tunnels and routes
+net-vpn/wirespider 0.4.0: Wirespider allows distributing wireguard tunnels and routes
 sci-astronomy/siril 1.0.0: A free astronomical image processing software
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 x11-base/xwayland 22.1.0: Standalone X server running under Wayland
