@@ -1,3 +1,5 @@
+acct-group/wirespider 0.1.0: System group: wirespider
+acct-user/wirespider 0.1.0: System user: wirespider
 app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer (.MSI) files
 app-cdr/qpxtool 0.8.1: QPxTool is the linux way to get full control over your CD/DVD drives
 app-editors/hyx 2021.06.09: a minimalistic console hex editor with vim-like controls
@@ -23,7 +25,7 @@ net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.10.1: A glossy Matrix collaboration client for desktop
 net-im/element-web 1.10.1: A glossy Matrix collaboration client for the web
-net-vpn/wirespider 0.4.2: Wirespider allows distributing wireguard tunnels and routes
+net-vpn/wirespider 0.4.2-r1: Wirespider allows distributing wireguard tunnels and routes
 sci-astronomy/siril 1.0.0: A free astronomical image processing software
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 x11-base/xwayland 22.1.0: Standalone X server running under Wayland
