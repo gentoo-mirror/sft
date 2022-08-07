@@ -4,7 +4,7 @@ app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer 
 app-cdr/qpxtool 0.8.1: QPxTool is the linux way to get full control over your CD/DVD drives
 app-editors/hyx 2021.06.09: a minimalistic console hex editor with vim-like controls
 dev-libs/libdwarf 20170709: Library to deal with DWARF Debugging Information Format
-dev-python/asyncpg 0.21.0 9999: fast PostgreSQL Database Client Library for Python/asyncio
+dev-python/asyncpg 0.26.0 9999: fast PostgreSQL Database Client Library for Python/asyncio
 dev-python/pysigset 0.3.2: Boilerplate framework for plugin, config and log management
 dev-python/scruffington 0.3.8.2: Boilerplate framework for plugin, config and log management
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
