@@ -19,8 +19,8 @@ media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.11.8: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.11.8: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.11.9: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.11.9: A glossy Matrix collaboration client for the web
 net-vpn/wirespider 0.4.2-r1: Wirespider allows distributing wireguard tunnels and routes
 sci-astronomy/siril 1.0.1: A free astronomical image processing software
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
