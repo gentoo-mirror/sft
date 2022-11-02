@@ -3,6 +3,7 @@ acct-user/wirespider 0.1.0: System user: wirespider
 app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer (.MSI) files
 app-cdr/qpxtool 0.8.1: QPxTool is the linux way to get full control over your CD/DVD drives
 app-editors/hyx 2021.06.09: a minimalistic console hex editor with vim-like controls
+dev-cpp/thrust 1.17.2: C++ Parallel Algorithms Library for CUDA, OpenMP and TBB
 dev-libs/libdwarf 20170709: Library to deal with DWARF Debugging Information Format
 dev-libs/nyan 9999: nyan - yet another notation: hierarchical inherited key-value store
 dev-python/asyncpg 0.26.0 9999: fast PostgreSQL Database Client Library for Python/asyncio
@@ -19,8 +20,8 @@ media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.11.9: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.11.9: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.11.13: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.11.13: A glossy Matrix collaboration client for the web
 net-vpn/wirespider 0.4.2-r1: Wirespider allows distributing wireguard tunnels and routes
 sci-astronomy/siril 1.0.1: A free astronomical image processing software
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
