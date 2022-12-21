@@ -17,8 +17,8 @@ games-util/arma3-unix-launcher 288: Launcher for ARMA3 with mod support
 media-libs/libmysofa 1.2: Reader for AES SOFA files to get better HRTFs
 media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
-net-im/element-desktop 1.11.15: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.11.15: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.11.17: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.11.17: A glossy Matrix collaboration client for the web
 net-vpn/wirespider 0.4.2-r1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 x11-base/xwayland 22.1.0: Standalone X server running under Wayland
