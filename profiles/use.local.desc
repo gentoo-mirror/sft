@@ -4,4 +4,3 @@
 
 x11-base/xwayland:unwind - Enable libunwind usage for backtraces
 x11-base/xwayland:xcsecurity - Build Security extension
-x11-misc/sddm:elogind - Use sys-auth/elogind for session tracking.
