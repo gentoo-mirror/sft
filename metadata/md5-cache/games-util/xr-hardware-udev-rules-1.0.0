@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=XR hardware udev rules
+EAPI=8
+HOMEPAGE=https://gitlab.freedesktop.org/monado/utilities/xr-hardware
+KEYWORDS=~amd64 ~x86 amd64 x86
+LICENSE=Boost-1.0
+SLOT=0
+SRC_URI=https://gitlab.freedesktop.org/monado/utilities/xr-hardware/-/archive/1.0.0/xr-hardware-1.0.0.tar.bz2
+_md5_=ea71d0b4eed30d7c95c8c89ea3b6a992
