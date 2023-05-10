@@ -9,6 +9,7 @@ dev-libs/libdwarf 20170709: Library to deal with DWARF Debugging Information For
 dev-libs/nyan 9999: nyan - yet another notation: hierarchical inherited key-value store
 dev-python/asyncpg 0.27.0 9999: fast PostgreSQL Database Client Library for Python/asyncio
 dev-python/fastapi 0.95.0: High performance, easy to learn, fast to code, ready for production
+dev-python/iso3166 2.1.1: Standalone ISO 3166-1 country definitions
 dev-python/pysigset 0.3.2: Boilerplate framework for plugin, config and log management
 dev-python/schwifty 2023.3.0: IBAN parsing and validation
 dev-python/scruffington 0.3.8.2: Boilerplate framework for plugin, config and log management
