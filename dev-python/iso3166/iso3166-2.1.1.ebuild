@@ -7,13 +7,13 @@ DISTUTILS_USE_PEP517=setuptools
 
 if [[ ${PV} == *9999 ]] ; then
 	SCM="git-r3"
-	EGIT_REPO_URI="https://github.com/mdomke/schwifty.git"
+	EGIT_REPO_URI="https://github.com/deactivated/python-iso3166.git"
 fi
 
 inherit distutils-r1 ${SCM}
 
-DESCRIPTION="IBAN parsing and validation"
-HOMEPAGE="https://github.com/mdomke/schwifty"
+DESCRIPTION="Standalone ISO 3166-1 country definitions"
+HOMEPAGE="https://github.com/deactivated/python-iso3166"
 
 if [[ ${PV} == *9999 ]] ; then
 	SRC_URI=""
@@ -29,9 +29,6 @@ SLOT="0"
 IUSE=""
 REQUIRED_USE=""
 
-RDEPEND="
-dev-python/iso3166[${PYTHON_USEDEP}]
-dev-python/pycountry[${PYTHON_USEDEP}]
-"
+RDEPEND=""
 DEPEND="
 ${RDEPEND}"
