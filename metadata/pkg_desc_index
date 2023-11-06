@@ -16,6 +16,7 @@ dev-python/schwifty 2023.3.0: IBAN parsing and validation
 dev-python/scruffington 0.3.8.2: Boilerplate framework for plugin, config and log management
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
 dev-util/kevin 0.7 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
+dev-util/qcachegrind 23.08.2: graphical frontend for valgrind's callgrind profiler
 dev-util/voltron 9999: multi view terminal debugging for gdb/lldb/vdb
 games-board/sabaki 0.33.3: An elegant Go board and SGF editor for a more civilized age
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
@@ -27,8 +28,8 @@ media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.11.46: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.11.46: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.11.47: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.11.47: A glossy Matrix collaboration client for the web
 net-vpn/wirespider 0.5.1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 x11-apps/xautocfg 1.1: automatic keyboard repeat rate configuration
