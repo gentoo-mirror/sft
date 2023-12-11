@@ -19,7 +19,6 @@ dev-util/kevin 0.7 9999: Kevin-CI: simple-stupid self-hostable continuous integr
 dev-util/qcachegrind 23.08.2: graphical frontend for valgrind's callgrind profiler
 dev-util/voltron 9999: multi view terminal debugging for gdb/lldb/vdb
 games-board/sabaki 0.33.3: An elegant Go board and SGF editor for a more civilized age
-games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
 games-strategy/openage 9999: free as in freedom RTS engine for age of empires II TC
 games-util/arma3-unix-launcher 288: Launcher for ARMA3 with mod support
 games-util/xr-hardware-udev-rules 1.0.0: XR hardware udev rules
