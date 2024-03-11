@@ -1,8 +1,9 @@
 BDEPEND=virtual/pkgconfig
 DEFINED_PHASES=configure install postinst unpack
 DEPEND=net-misc/modemmanager[mbim]
-DESCRIPTION=FCC unlock for Fibocom L860R+ and Fibocom FM350 5G
+DESCRIPTION=FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
 EAPI=8
+HOMEPAGE=https://download.lenovo.com/pccbbs/mobiles_pdf/wwan-enablement-on-Linux.pdf
 INHERIT=systemd
 KEYWORDS=~amd64 ~x86
 LICENSE=Lenovo-COE-30002-01
@@ -10,4 +11,4 @@ RDEPEND=net-misc/modemmanager[mbim]
 SLOT=0
 SRC_URI=https://download.lenovo.com/pccbbs/mobiles/n3xwp02w.zip -> lenovo-fibocom-2.0.zip
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
-_md5_=87548eec1a057773ede704030b208cf4
+_md5_=43364451afbfc759788bc3490ff0eed8
