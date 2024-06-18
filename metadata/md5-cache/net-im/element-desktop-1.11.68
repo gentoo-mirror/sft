@@ -12,4 +12,4 @@ RESTRICT=network-sandbox
 SLOT=0
 SRC_URI=https://github.com/vector-im/element-desktop/archive/v1.11.68.tar.gz -> element-desktop-1.11.68.tar.gz
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3
-_md5_=2bb23cd9965bcc542007f7b8f891825a
+_md5_=d0c2b383a56795d680b4eb8b06128986
