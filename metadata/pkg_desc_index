@@ -3,6 +3,7 @@ acct-user/wirespider 0.1.0: System user: wirespider
 app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer (.MSI) files
 app-cdr/qpxtool 0.8.1: QPxTool is the linux way to get full control over your CD/DVD drives
 app-editors/hyx 2021.06.09: a minimalistic console hex editor with vim-like controls
+app-misc/ollama 0.5.4: Infer on language models like Llama, Phi, Mistral, Gemma.
 app-shells/zoxide 0.9.0: A smarter cd command for your terminal
 dev-cpp/thrust 1.17.2: C++ Parallel Algorithms Library for CUDA, OpenMP and TBB
 dev-cpp/toml11 3.7.1: TOML for Modern C++
@@ -13,6 +14,8 @@ dev-python/fastapi 0.111.0: High performance, easy to learn, fast to code, ready
 dev-python/iso3166 2.1.1: Standalone ISO 3166-1 country definitions
 dev-python/lsprotocol 2023.0.1: Python implementation of the Language Server Protocol.
 dev-python/pysigset 0.3.2: Boilerplate framework for plugin, config and log management
+dev-python/python-lsp-mypy 0.6.9: Mypy plugin for the Python LSP Server
+dev-python/python-lsp-rope 0.1.17: Mypy plugin for the Python LSP Server
 dev-python/python-lsp-ruff 2.2.2: Ruff plugin for the Python LSP Server
 dev-python/scruffington 0.3.8.2: Boilerplate framework for plugin, config and log management
 dev-python/sftrun 9999: shell-like subprocess execution, piping and redirection for Python
@@ -32,7 +35,6 @@ net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.11.89: A glossy Matrix collaboration client for desktop
 net-im/element-web 1.11.89: A glossy Matrix collaboration client for the web
 net-misc/lenovo-fibocom 2.0: FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
-net-vpn/wirespider 0.5.1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 www-client/ladybird 9999: Truly independent web browser
 x11-apps/xautocfg 1.2: automatic keyboard repeat rate configuration
