@@ -34,7 +34,7 @@ net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
 net-im/element-desktop 1.11.89: A glossy Matrix collaboration client for desktop
 net-im/element-web 1.11.89: A glossy Matrix collaboration client for the web
-net-misc/lenovo-fibocom 2.0: FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
+net-misc/lenovo-fibocom 3.1: FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
 net-vpn/wirespider 0.5.1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
 www-client/ladybird 9999: Truly independent web browser
