@@ -11,5 +11,5 @@ RDEPEND=!net-im/element-desktop-bin =net-im/element-web-1.11.101 app-crypt/libse
 RESTRICT=network-sandbox
 SLOT=0
 SRC_URI=https://github.com/vector-im/element-desktop/archive/v1.11.101.tar.gz -> element-desktop-1.11.101.tar.gz
-_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	rust	3b042096236a464b8bd9dd7a1120ad23
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	rust	205f396579fe93ffb2775ef7e36a1b20
 _md5_=29a2c186dfdfa0afb356f3a0ded41d41
