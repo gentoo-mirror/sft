@@ -13,14 +13,11 @@ dev-python/asyncpg_stubs 0.30.0: Typing stubs for asyncpg
 dev-python/fastapi 0.111.0: High performance, easy to learn, fast to code, ready for production
 dev-python/iso3166 2.1.1: Standalone ISO 3166-1 country definitions
 dev-python/lsprotocol 2023.0.1: Python implementation of the Language Server Protocol.
-dev-python/pysigset 0.4.0: Boilerplate framework for plugin, config and log management
 dev-python/python-lsp-mypy 0.6.9: Mypy plugin for the Python LSP Server
 dev-python/python-lsp-rope 0.1.17: Mypy plugin for the Python LSP Server
 dev-python/python-lsp-ruff 2.2.2: Ruff plugin for the Python LSP Server
-dev-python/scruffington 0.3.9: Boilerplate framework for plugin, config and log management
 dev-python/sftrun 9999: shell-like subprocess execution, piping and redirection for Python
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
-dev-util/kevin 0.7 9999: Kevin-CI: simple-stupid self-hostable continuous integration service
 dev-util/qcachegrind 23.08.2: graphical frontend for valgrind's callgrind profiler
 dev-util/voltron 0.1.8 9999: multi view terminal debugging for gdb/lldb/vdb
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
