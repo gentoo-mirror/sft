@@ -1,6 +1,5 @@
 acct-group/wirespider 0.1.0: System group: wirespider
 acct-user/wirespider 0.1.0: System user: wirespider
-app-arch/dput 1.2.4: Debian package upload tool
 app-arch/msitools 0.101: Set of programs to inspect and build Windows Installer (.MSI) files
 app-cdr/qpxtool 0.8.1: QPxTool is the linux way to get full control over your CD/DVD drives
 app-editors/hyx 2021.06.09: a minimalistic console hex editor with vim-like controls
@@ -18,6 +17,7 @@ dev-python/python-lsp-rope 0.1.17: Mypy plugin for the Python LSP Server
 dev-python/python-lsp-ruff 2.2.2: Ruff plugin for the Python LSP Server
 dev-python/sftrun 9999: shell-like subprocess execution, piping and redirection for Python
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
+dev-util/dput 1.2.4: Debian package upload tool
 dev-util/qcachegrind 23.08.2: graphical frontend for valgrind's callgrind profiler
 dev-util/voltron 0.1.8 9999: multi view terminal debugging for gdb/lldb/vdb
 games-server/openage-masterserver 9999: Masterserver for matchmaking and lobby mediating for openage
@@ -29,8 +29,8 @@ media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.11.102: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.11.102: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.11.105: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.11.105: A glossy Matrix collaboration client for the web
 net-misc/lenovo-fibocom 3.1: FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
 net-vpn/wirespider 0.5.1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
