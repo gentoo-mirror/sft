@@ -9,6 +9,6 @@ LICENSE=Apache-2.0 MIT BSD
 RDEPEND=net-libs/nodejs x11-libs/cairo x11-libs/pango media-libs/fontconfig
 RESTRICT=network-sandbox
 SLOT=0
-SRC_URI=https://github.com/vector-im/element-web/archive/v1.11.105.tar.gz -> element-web-1.11.105.tar.gz
+SRC_URI=https://github.com/vector-im/element-web/archive/v1.11.106.tar.gz -> element-web-1.11.106.tar.gz
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=d0e38de2aad9edeeba4f14bb979860c9
