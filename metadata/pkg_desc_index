@@ -13,7 +13,7 @@ dev-python/fastapi 0.111.0: High performance, easy to learn, fast to code, ready
 dev-python/iso3166 2.1.1: Standalone ISO 3166-1 country definitions
 dev-python/lsprotocol 2023.0.1: Python implementation of the Language Server Protocol.
 dev-python/python-lsp-mypy 0.6.9: Mypy plugin for the Python LSP Server
-dev-python/python-lsp-rope 0.1.17: Mypy plugin for the Python LSP Server
+dev-python/python-lsp-rope 0.1.17: Rope plugin for the Python LSP Server
 dev-python/python-lsp-ruff 2.2.2: Ruff plugin for the Python LSP Server
 dev-python/sftrun 9999: shell-like subprocess execution, piping and redirection for Python
 dev-util/ccls 9999: C/C++/ObjC language server protocol implementation
@@ -29,8 +29,8 @@ media-libs/librtprocess 0.12.0: Algorithms for RAW processing from RawTherapee
 media-video/videoscreen 1.2: play links submitted via netcat with mpv
 net-dialup/opencu 3: a serial terminal emulator from OpenBSD
 net-dns/sftdyn 0.10 9999: dynamic dns updater server with https
-net-im/element-desktop 1.12.1: A glossy Matrix collaboration client for desktop
-net-im/element-web 1.12.1: A glossy Matrix collaboration client for the web
+net-im/element-desktop 1.12.2: A glossy Matrix collaboration client for desktop
+net-im/element-web 1.12.2: A glossy Matrix collaboration client for the web
 net-misc/lenovo-fibocom 3.1: FCC unlock for Fibocom L860R+ LTE and Fibocom FM350 5G modem
 net-vpn/wirespider 0.5.1: Wirespider allows distributing wireguard tunnels and routes
 virtual/linux-sources 99: Dummy virtual for Linux kernel sources as dependency placeholder
